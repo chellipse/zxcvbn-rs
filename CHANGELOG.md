@@ -1,3 +1,8 @@
+**Version 3.1.1**
+
+- Bump all dependencies
+- Add Deserialize implementation to `ser` feature
+
 **Version 3.1.0**
 
 - Add `Display` to `Feedback`
